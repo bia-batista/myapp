@@ -1,6 +1,6 @@
-# myapp
+# My App
 
-A new Flutter project.
+Programa feito para a conclusão da atividade 2 da disciplina de desenvolvimento WEB
 
 ## Getting Started
 
